@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: white;
+}
+div {
+    margin-left: 40%;
+    margin-top: 10%
+}
+.kuc {
+    text-transform: uppercase;
+    margin-left: 115px;
+    font-family: 'Libre Baskerville', serif;
+
+}
+.quc {
+    margin-left: 65px;
+    font-size: large}
